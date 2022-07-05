@@ -8,3 +8,5 @@
 - 😄 Pronouns: Ela/Dela (She/Her)
 - ⚡ Fun fact: ...
 
+![tainahmr Status](https://github-readme-stats.vercel.app/api?username=tainahmr&show_icon
+
